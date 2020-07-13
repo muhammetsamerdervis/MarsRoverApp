@@ -1,0 +1,6 @@
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe.config
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.pdb
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.exe
+C:\Users\MSI\Downloads\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.pdb
